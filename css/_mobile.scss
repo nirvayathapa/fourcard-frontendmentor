@@ -1,0 +1,16 @@
+@media screen  and (max-width:1220px) {
+    .Main_head{
+        width: 50rem;
+        // margin: auto;
+        margin-top: 4rem;
+        
+    }
+    .border{
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: 1;
+        grid-template-rows: auto auto auto auto;
+        
+
+    }
+}
