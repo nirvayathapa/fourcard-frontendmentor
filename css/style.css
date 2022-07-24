@@ -68,21 +68,21 @@ main.wrapper .box:hover {
 }
 main.wrapper #box-1 {
   grid-row: 2/4;
-  border-top: 0.6rem solid hsl(0deg, 78%, 62%);
+  border-top: 0.6rem solid hsl(180deg, 62%, 55%);
 }
 main.wrapper #box-2 {
   grid-row: 1/3;
-  border-top: 0.6rem solid hsl(180deg, 62%, 55%);
+  border-top: 0.6rem solid hsl(0deg, 78%, 62%);
 }
 main.wrapper #box-3 {
   grid-column-start: 3;
   grid-row: 2/4;
-  border-top: 0.6rem solid hsl(34deg, 97%, 64%);
+  border-top: 0.6rem solid hsl(212deg, 86%, 64%);
 }
 main.wrapper #box-4 {
   grid-column-start: 2;
   grid-row: 3/5;
-  border-top: 0.6rem solid hsl(212deg, 86%, 64%);
+  border-top: 0.6rem solid hsl(34deg, 97%, 64%);
 }
 main.wrapper .secondary_head {
   color: hsl(234deg, 12%, 34%);
